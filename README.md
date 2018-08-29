@@ -1,5 +1,5 @@
-# arcanist-python-autolint
-Automatically lint your Python files using arc lint.
+# arcanist-python-lint-autoformat
+Automatically format your Python files using arc lint.
 
 Arcanist already supports a lot of Python linters such as pep8, flake8 etc.
 
