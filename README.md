@@ -34,3 +34,5 @@ This repository contains tools for linting using Automatic formatters. The idea 
 ### Usage
 ```arc lint file.py```
 
+![Usage](https://github.com/kunalgrover05/arcanist-python-autolint/blob/master/usage.png)
+
